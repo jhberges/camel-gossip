@@ -1,4 +1,6 @@
 # camel-gossip
+![Travis-CI](https://travis-ci.org/jhberges/camel-gossip.svg)
+
 ```camel-gossip``` is an [Apache Camel](http://camel.apache.com) component that utilitizes the Gossip protocol to control routes via the [Controlbus Component](http://camel.apache.org/controlbus-component.html).
 
 Draft usage:
